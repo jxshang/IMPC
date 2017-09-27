@@ -65,10 +65,8 @@ When using this code please cite our paper (to appear in the future).
 	The graph is undirected, so please just remain one edge.
 
 	Example:
-	4	2
-	
-	0	1
-	
+	4	2	
+	0	1	
 	2	3
 
 	This graph contains four nodes and two edges. 
