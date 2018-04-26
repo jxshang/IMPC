@@ -560,4 +560,3 @@ float mc_influence(Graph *g, int *seed_arr, int k, int simus){
 	delete[] rand_arr;
 	return inf / simus;
 }
-
